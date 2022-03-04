@@ -1,0 +1,361 @@
+{
+    "responseHeader": {
+        "warnings": [
+            "Raising facet.mincount from 0 to 1, because field prix is Points-based."
+        ],
+        "status": 0,
+        "QTime": 65,
+        "params": {
+            "q": "*:*",
+            "facet.field": [
+                "saison",
+                "client",
+                "prix"
+            ],
+            "facet": [
+                "true",
+                "true",
+                "true"
+            ],
+            "wt": "json"
+        }
+    },
+    "response": {
+        "numFound": 136,
+        "start": 0,
+        "docs": [
+            {
+                "name": [
+                    "ApplocationA1"
+                ],
+                "client": [
+                    "rjue"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "description": [
+                    "Les clients de yajade  c est  sma et rjue  et  cjue "
+                ],
+                "imageLien": [
+                    "https://nexus.yajade.com/static/rapture/resources/images/loading-logo.png"
+                ],
+                "prix": [
+                    1
+                ],
+                "saison": [
+                    "automne"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "id": "3d99744b-6790-49e1-9289-4dffcb0f3048",
+                "_version_": 1641402740274888700
+            },
+            {
+                "name": [
+                    "ApplocationA2"
+                ],
+                "client": [
+                    "rjue"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "description": [
+                    "Les clients de yajade  c est  sma et rjue  et  cjue "
+                ],
+                "imageLien": [
+                    "https://nexus.yajade.com/static/rapture/resources/images/loading-logo.png"
+                ],
+                "prix": [
+                    2
+                ],
+                "saison": [
+                    "automne"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "id": "d30fb886-2457-4946-9e8b-36dbb6d8a34a",
+                "_version_": 1641402742633136000
+            },
+            {
+                "name": [
+                    "ApplocationA7"
+                ],
+                "client": [
+                    "rjue"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "description": [
+                    "Les clients de yajade  c est  sma et rjue  et  cjue "
+                ],
+                "imageLien": [
+                    "https://nexus.yajade.com/static/rapture/resources/images/loading-logo.png"
+                ],
+                "prix": [
+                    7
+                ],
+                "saison": [
+                    "automne"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "id": "de1619b4-1cca-4f6b-bd6f-cbb9804278d5",
+                "_version_": 1641402743864164400
+            },
+            {
+                "name": [
+                    "ApplocationA3"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "client": [
+                    "smaInterne"
+                ],
+                "description": [
+                    " yajade a bien structurer l application cjue "
+                ],
+                "imageLien": [
+                    "https://docs.gitlab.com/assets/images/gitlab-logo.svg"
+                ],
+                "prix": [
+                    3
+                ],
+                "saison": [
+                    "printemps"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "id": "a026626e-d7e6-476a-bcd6-b6b81e12ebda",
+                "_version_": 1641402741861384200
+            },
+            {
+                "name": [
+                    "ApplocationA6"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "client": [
+                    "smaInterne"
+                ],
+                "description": [
+                    " yajade a bien structurer l application cjue "
+                ],
+                "imageLien": [
+                    "https://docs.gitlab.com/assets/images/gitlab-logo.svg"
+                ],
+                "prix": [
+                    6
+                ],
+                "saison": [
+                    "printemps"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "id": "c519f5c9-738b-44de-88a8-09a54ec4d22b",
+                "_version_": 1641402743321002000
+            },
+            {
+                "name": [
+                    "ApplocationA5"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "client": [
+                    "cjue"
+                ],
+                "description": [
+                    " yajade a bien structurer l application rjue "
+                ],
+                "imageLien": [
+                    "https://jenkins.yajade.com/static/a1bced40/images/headshot.png"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "prix": [
+                    5
+                ],
+                "saison": [
+                    "hiver"
+                ],
+                "id": "36cd94f1-2704-4d76-96fd-f508e3b06882",
+                "_version_": 1641402736759013400
+            },
+            {
+                "name": [
+                    "ApplocationA4"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "client": [
+                    "cjue"
+                ],
+                "description": [
+                    " yajade a bien structurer l application rjue "
+                ],
+                "imageLien": [
+                    "https://jenkins.yajade.com/static/a1bced40/images/headshot.png"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "prix": [
+                    4
+                ],
+                "saison": [
+                    "hiver"
+                ],
+                "id": "0874f24c-8c7b-437e-975f-f6d25838a526",
+                "_version_": 1641402740819099600
+            },
+            {
+                "name": [
+                    "ApplocationA8"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "client": [
+                    "cjue"
+                ],
+                "description": [
+                    " yajade a bien structurer l application rjue "
+                ],
+                "imageLien": [
+                    "https://jenkins.yajade.com/static/a1bced40/images/headshot.png"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "prix": [
+                    8
+                ],
+                "saison": [
+                    "hiver"
+                ],
+                "id": "5ccf0418-1b7f-4926-9eda-8877336fe4b3",
+                "_version_": 1641402742994894800
+            },
+            {
+                "name": [
+                    "ApplocationA1"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "client": [
+                    "sma"
+                ],
+                "description": [
+                    " yajade a bien structurer l application sma "
+                ],
+                "imageLien": [
+                    "https://docs.gitlab.com/assets/images/gitlab-logo.svg"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "prix": [
+                    1
+                ],
+                "saison": [
+                    "été"
+                ],
+                "id": "da0f1a05-2c8b-4fc3-a17d-8a4a7d1824a6",
+                "_version_": 1641402738376966100
+            },
+            {
+                "name": [
+                    "ApplocationA8"
+                ],
+                "registered": [
+                    "2018/01/01"
+                ],
+                "client": [
+                    "sma"
+                ],
+                "description": [
+                    " yajade a bien structurer l application sma "
+                ],
+                "imageLien": [
+                    "https://docs.gitlab.com/assets/images/gitlab-logo.svg"
+                ],
+                "lien": [
+                    "Pending"
+                ],
+                "prix": [
+                    8
+                ],
+                "saison": [
+                    "été"
+                ],
+                "id": "3e19d6f3-90c7-4658-b815-8b75f1afb307",
+                "_version_": 1641402741338144800
+            }
+        ]
+    },
+    "facet_counts": {
+        "facet_queries": {},
+        "facet_fields": {
+            "saison": [
+                "automne",
+                34,
+                "hiver",
+                34,
+                "printemps",
+                34,
+                "été",
+                34
+            ],
+            "client": [
+                "cjue",
+                34,
+                "rjue",
+                34,
+                "sma",
+                34,
+                "smainterne",
+                34
+            ],
+            "prix": [
+                "0",
+                16,
+                "1",
+                16,
+                "2",
+                16,
+                "3",
+                16,
+                "4",
+                16,
+                "5",
+                16,
+                "6",
+                8,
+                "7",
+                8,
+                "8",
+                8,
+                "9",
+                8,
+                "10",
+                8
+            ]
+        },
+        "facet_ranges": {},
+        "facet_intervals": {},
+        "facet_heatmaps": {}
+    }
+}

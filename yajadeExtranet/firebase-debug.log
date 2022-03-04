@@ -1,0 +1,21 @@
+[debug] [2019-09-03T13:12:05.794Z] ----------------------------------------------------------------------
+[debug] [2019-09-03T13:12:05.799Z] Command:       D:\tools\node.exe C:\Users\hajar\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-09-03T13:12:05.799Z] CLI Version:   7.3.0
+[debug] [2019-09-03T13:12:05.799Z] Platform:      win32
+[debug] [2019-09-03T13:12:05.799Z] Node Version:  v8.11.2
+[debug] [2019-09-03T13:12:05.801Z] Time:          Tue Sep 03 2019 15:12:05 GMT+0200 (Paris, Madrid (heure d’été))
+[debug] [2019-09-03T13:12:05.801Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-09-03T13:12:05.813Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-09-03T13:12:05.813Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\hajar\Desktop\ShareFolder\dossieryajade\ExtranetYajade\yajadeExtranet
+

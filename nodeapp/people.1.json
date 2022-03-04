@@ -1,0 +1,26 @@
+{
+    "responseHeader": {
+        "warnings": [
+          
+        ],
+        "status": 0,
+        "QTime": 0,
+        "params": { }
+    },
+    "response": {
+        "numFound": 0,
+        "start": 0,
+        "docs": [ ]
+    },
+    "facet_counts": {
+        "facet_queries": {},
+        "facet_fields": {
+            "saison": [],
+            "client": [],
+            "prix": []
+        },
+        "facet_ranges": {},
+        "facet_intervals": {},
+        "facet_heatmaps": {}
+    }
+}

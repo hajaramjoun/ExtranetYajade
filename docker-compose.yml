@@ -1,0 +1,44 @@
+ version: '2.4'
+
+ services:
+
+
+  yajade: 
+    container_name: yajade
+    #image: hajar/extrat
+    build: ./yajadeExtranet
+    links:
+    - node:node
+
+    ports:
+      - 3000:3000
+     
+   
+    
+   
+   
+  solr:
+    image: solr
+    hostname: solr
+    container_name: solr
+    #volumes:
+     #  - "${VOL_NEXUS_DATAS}:/nexus-data"
+  
+    ports:
+      - 8983:8983
+      
+  node: 
+    #image: hajar/node
+    build: ./nodeapp
+    hostname: nodeapp
+    container_name: nodeapp
+    links:
+    - solr:solr
+    ports:
+      - 8081:8081
+   
+    
+ 
+
+   
+
